@@ -1,5 +1,4 @@
         .data
-msg:   .asciiz "Hello World"
 p1:		.float 0.0
 p2:		.float 0.8
 taxa:	.float 0.05
